@@ -1,6 +1,6 @@
 # blinkIT Sales Analysis Dashboard
 
-#### Dashboard Link: https://drive.google.com/file/d/1L2PtTbgz7C3b9G9Jm5ol7eopZi7CXH0k/view?usp=drive_link
+#### Dashboard Link: [https://drive.google.com/file/d/1L2PtTbgz7C3b9G9Jm5ol7eopZi7CXH0k/view?usp=drive_link](https://drive.google.com/drive/folders/1xdUxIJw-DNwzm80usRCIycUOj-Jf1dKg?usp=sharing)
 
 ## Overview
 
